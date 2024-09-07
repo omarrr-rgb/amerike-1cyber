@@ -18,8 +18,8 @@ Tambien soy [Gamer]
 
 se agrega el cambio al archivo para ver que onda con est madre 
 
+1. markdown
 
-1.
 - 1
 - 2
 
