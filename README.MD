@@ -1,3 +1,8 @@
+# amerike 1 ciber
+
+
+
+
 hola mi nombre es omar y tengo 17 años
 
 Estoy iniciando mi carrera de _ciber_  _seguridad_
