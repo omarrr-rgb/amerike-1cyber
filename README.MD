@@ -54,3 +54,10 @@ cp clear
 
 
 HACIENDO UN CAMBIO PARA VER EL SEGUIMIENTO DE GIT
+
+
+
+
+
+
+# styles.css
