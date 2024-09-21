@@ -1,0 +1,66 @@
+commit 8a7d75fec614333c20df244fe72a605d67fc3dfa
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 09:40:53 2024 -0600
+
+    conectando index.html con styles.css
+
+commit 49886a2dcf55818a705b75cb34639a9059672398
+Merge: af03b80 b40dab4
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 09:32:17 2024 -0600
+
+    Merge branch 'css'
+
+commit b40dab40d9a127b7e0f029a6dd881bb086842a4d
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 08:54:26 2024 -0600
+
+    cambiando cuerpo de mi pagina
+
+commit af03b8042ebcc1721d2f30b70737963eb6f51f2f
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 08:47:57 2024 -0600
+
+    modificando index.html desde rama html
+
+commit 6ff9ac37b9ffc042427ff7e7b11482886549ada5
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 08:42:29 2024 -0600
+
+    agregando contenido al js
+
+commit 8031b05e63c3f4cb337fba0c56fa455dad8cc861
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 14 08:40:38 2024 -0600
+
+    agregando cambio del archivo js
+
+commit b191a7d7a9e6de7f3a0203be82428663c9080c98
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 7 09:45:13 2024 -0600
+
+    Agregando enlace y contenido de la practica 3
+
+commit 9d78fd7a92ca0c387adb0d3b2431b76d03835916
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 7 09:23:31 2024 -0600
+
+    Creando archivo .gitignore
+
+commit 22d8d081f59378559791eda8de4383b686141355
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Sep 7 07:49:09 2024 -0600
+
+     creando y configurando el git.ignore
+
+commit 6eaca212dfb97ec45b667a99440afa34a81a51cd
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Aug 31 08:45:33 2024 -0600
+
+    se agregaron los cambios a la terminal generalllllll
+
+commit 31502e6bf2ce74db382fb584e5c6b50521ab8c53
+Author: omarrr-rgb <alexis99mn@gmail.com>
+Date:   Sat Aug 31 08:35:52 2024 -0600
+
+    primer cambio

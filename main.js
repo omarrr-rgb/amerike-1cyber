@@ -1,3 +1,3 @@
 alert("holis mundo");
 
-console.log("hola mundo");
+console.log("QPD mundo");
